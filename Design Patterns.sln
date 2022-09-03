@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy Pattern", "Strategy Pattern\Strategy Pattern.csproj", "{40D3CA28-6B69-4EF4-8882-0FA27CFF1DCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer Pattern", "Observer Pattern\Observer Pattern.csproj", "{8B3E549E-1A7D-4D51-BC5E-F29420BB8EFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{40D3CA28-6B69-4EF4-8882-0FA27CFF1DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D3CA28-6B69-4EF4-8882-0FA27CFF1DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D3CA28-6B69-4EF4-8882-0FA27CFF1DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3E549E-1A7D-4D51-BC5E-F29420BB8EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3E549E-1A7D-4D51-BC5E-F29420BB8EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3E549E-1A7D-4D51-BC5E-F29420BB8EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3E549E-1A7D-4D51-BC5E-F29420BB8EFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
